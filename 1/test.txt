@@ -1,0 +1,8 @@
+hello world!
+hello world!
+ls - dir content
+clear
+cd
+cd..
+cd name
+cd Tab
