@@ -36,14 +36,10 @@ const deleteUser = async (userId) => {
   return userRepository.deleteUser(userId);
 };
 
-
-
 export default {
   createUser,
   getUser,
   getAllUsers,
   updateUser,
-  deleteUser
-
-  
+  deleteUser,
 };

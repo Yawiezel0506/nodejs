@@ -1,4 +1,5 @@
 import fs from "fs/promises"; // Using promises version of fs
+import {v4} from "uuid"
 
 const USERS_FILE_PATH = "./db/users.json";
 
